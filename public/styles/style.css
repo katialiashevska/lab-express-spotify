@@ -55,6 +55,7 @@
     border: none;
     margin-top: 2rem;
     border-radius: 4px;
+    cursor: pointer;
   }
  
   .row {
@@ -73,7 +74,7 @@
     justify-content: space-between;
     width: 300px;
     height: 450px;
-    background-color: rgb(88, 88, 88);
+    background-color: white;
   }
  
   .card > h3 {
